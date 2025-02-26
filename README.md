@@ -1,4 +1,4 @@
-# Bahmni Proxy:Latest
+# Bahmni Proxy:Latestt
 
 This repository contains resources for building Docker image for Bahmni Proxy Container. The proxy container is a Apache Httpd server with overridden configurations. The proxy container is used for the following purposes.
 1. Serve `Bahmni Index Page`
