@@ -52,5 +52,5 @@ jobs:
             else
               echo "Trigger to $ORG_NAME/$REPOSITORY_NAME Failed"
               cat trigger_response.txt
-  #             exit 1
-  #           fi
+              exit 1
+            fi
